@@ -52,8 +52,6 @@ def main3():
     print("\nAfter rolling fair die 10,000 times")
     for i in range(6):
         print(f"Probability of rolling a {i + 1}:{scores[i] / n:.4f}")
-    pass
-
 
 # endregion
 
